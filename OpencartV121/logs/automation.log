@@ -1,0 +1,6 @@
+23:06:47.789 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:29)oggger - ********* clicked on My Account *********
+23:06:48.157 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:31)oggger - ********* clicked on My Registration *********
+23:06:48.158 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+23:06:49.325 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+23:06:52.360 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:47)oggger - ******Validating expected message******
+23:06:52.360 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:64)oggger - ****** Finished TC_001AccountRegistration *****

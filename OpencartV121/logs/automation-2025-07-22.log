@@ -1,0 +1,33 @@
+10:20:54.128 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+10:20:55.351 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+10:20:58.389 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:47)oggger - ******Validating expected message******
+10:20:58.389 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:64)oggger - ****** Finished TC_001AccountRegistration *****
+10:21:01.213 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:23)oggger - ****** STARTING TC_001AccountRegistration *****
+10:21:01.281 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:29)oggger - ********* clicked on My Account *********
+10:21:01.784 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:31)oggger - ********* clicked on My Registration *********
+10:21:01.785 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+10:21:03.037 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+10:21:06.061 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:47)oggger - ******Validating expected message******
+10:21:06.061 [main] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:64)oggger - ****** Finished TC_001AccountRegistration *****
+16:14:42.370 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "C:\Users\user\eclipse-workspace\OpencartV121\master.xml"
+16:14:42.701 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\user\eclipse-workspace\OpencartV121\master.xml
+
+16:14:47.617 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:23)oggger - ****** STARTING TC_001AccountRegistration *****
+16:14:48.115 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:29)oggger - ********* clicked on My Account *********
+16:14:48.255 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:23)oggger - ****** STARTING TC_001AccountRegistration *****
+16:14:48.889 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:31)oggger - ********* clicked on My Registration *********
+16:14:48.894 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+16:14:49.080 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:29)oggger - ********* clicked on My Account *********
+16:14:49.637 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:31)oggger - ********* clicked on My Registration *********
+16:14:49.638 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+16:14:53.249 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+16:14:53.425 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+16:14:54.031 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:23)oggger - ****** STARTING TC_001AccountRegistration *****
+16:14:54.327 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:29)oggger - ********* clicked on My Account *********
+16:14:54.754 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:31)oggger - ********* clicked on My Registration *********
+16:14:54.755 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:34)oggger - ******Providing customer details.******
+16:14:56.061 [TestNG-tests-2] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:44)oggger - ******Clicked on continue button******
+16:14:56.287 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:47)oggger - ******Validating expected message******
+16:14:56.289 [TestNG-tests-1] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:64)oggger - ****** Finished TC_001AccountRegistration *****
+16:14:56.472 [TestNG-tests-3] INFO  testCases.TC_001AccountRegistration.accountReg(TC_001AccountRegistration.java:47)oggger - ******Validating expected message******
